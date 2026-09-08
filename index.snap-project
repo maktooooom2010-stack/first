@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="page">
+
+        <div class="card">
+
+            <div class="top-icons">
+
+                <div><img class="image" src="images-removebg-preview.png" alt=""></div>
+                <div class="log-in"><b>Log In</b></div>
+                <div class="sub-text">to continue to Ads manager</div>
+
+            </div>
+
+            <div class="inputs">
+                <div class="text-input">Username or Email</div>
+                <input class="new-placeholder" type="text" name="" id="">
+
+
+                <div class=" sub text-input">Password</div>
+
+
+                <input class=" placeholder" type="text" name="" id="">
+
+                <div class="forgot">Forgot Password</div>
+
+                <button class="button">
+                    <div class="log-button"><b>Log in</b></div>
+                </button>
+
+
+
+            </div>
+
+
+
+        </div>
+
+        <div class="new-snap">
+            <div>New to Snapchat?</div> <button class="sign-up">Sign up</button>
+
+
+        </div>
+
+
+
+
+
+
+
+    </div>
+</body>
+
+</html>
