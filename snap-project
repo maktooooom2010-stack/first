@@ -1,0 +1,143 @@
+.page{
+    background-color: rgb(115, 114, 114);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+
+background-color: white;
+display: flex;
+flex-direction: column;
+border-radius: 0px;
+width: 400px;
+height: 400px;
+
+}
+
+.top-icons{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding-bottom: 20px;
+
+
+}
+
+.inputs{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.image{
+
+width: 100px;
+
+}
+
+.log-in{
+
+    font-size: x-large;
+    
+
+}
+
+.sub-text{
+
+    color: silver;
+    padding-top: 6px;
+
+}
+
+.placeholder{
+    margin-top: 15px;
+    padding: 10px;
+    width: 300px;   
+    border-radius: 10px;
+    
+
+}
+
+.new-placeholder{
+
+    margin-top: 15px;
+    padding: 10px;
+    width: 300px;   
+    border-radius: 10px;
+}
+
+.text-input{
+
+    margin-right: 190px;
+    color: rgb(95, 95, 95);
+
+}
+
+.sub{
+
+    margin-right: 250px;
+    margin-top: 15px;
+}
+
+.button{
+margin-top: 27px;
+background-color: yellow;
+border-radius: 35px;
+width: 90px;
+padding: 8px;
+border-color: white;
+height: 40px;
+
+}
+
+.log-button{
+
+font-size: small;
+
+
+}
+
+.forgot{
+
+margin-left: 230px;
+color: rgb(135, 135, 135);
+font-size: small;
+
+}
+
+
+.new-snap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(233, 233, 233);
+    width: 400px;
+    height: 50px;
+    border-radius: 0px;
+
+}
+
+.sign-up{
+
+
+  background-color: rgb(233, 233, 233);
+border: 1px solid rgb(233, 233, 233);;
+font-size: medium;
+
+}
+
+.chance{
+
+
+
+}
