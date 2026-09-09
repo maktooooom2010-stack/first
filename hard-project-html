@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="website">
+
+
+        <div class="background">
+
+            <div class="title">
+                <div class="big-title">Landing page</div>
+                <div class="small-title">Music</div>
+            </div>
+
+            <div class="big-card">
+
+               
+                <div class="logo">
+                    <div class="real-logo">Your Logo</div>
+
+                    <div class="home-choice">Home</div>
+                    <div class="home-choice">About</div>
+                    <div class="home-choice">Services</div>
+                    <div class="home-choice">Contact us</div>
+
+
+                </div>
+                
+                <div class="mini-card">
+                    <div class="song">FREE YOUR </div>
+                    <div class="song-2">BEST SONG</div>
+                </div>
+
+                <div class="descrip">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur provident
+                    eius doloremque excepturi architecto amet totam iste dolor incidunt praesentium, beatae nam
+                    exercitationem inventore, placeat quia aliquid similique ad. Et.</div>
+
+                <div class="buttons">
+                    <button class="sign-in">
+                        Sign In
+                    </button>
+                    <button class="sign-up">Sign Up</button>
+                </div>
+
+
+                <div class="picture">
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+    </div>
+</body>
+
+</html>
