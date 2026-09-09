@@ -1,0 +1,90 @@
+.website{
+
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.background{
+    background-color:rgb(220, 203, 121);
+    min-height: 90vh;
+    min-width: 80vh;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 170px;
+
+}
+
+.title{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+position: relative;
+
+}
+
+.big-title{
+    font-size: xx-large;
+}
+
+.small-title{
+
+   font-size: small;
+   
+}
+
+.big-card{
+    min-height: 50px;
+   padding: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo{
+    gap: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.song{
+font-size: x-large;
+
+
+}
+
+.song-2{
+
+font-size: xx-large;
+
+
+
+}
+
+.sign-in{
+
+border: 5px solid yellow;
+background-color: black;
+color: yellow;
+
+}
+
+.sign-up{
+
+color: black;
+background-color: yellow;
+border: 5px solid yellow;
+
+
+}
