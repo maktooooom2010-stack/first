@@ -1,0 +1,145 @@
+.website {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: white;
+}
+
+
+.big-card {
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+    flex-direction: row;
+    min-height: 70vh;
+    width: 150vh;
+}
+
+.card-right {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 50%;
+    margin-left: 25%;
+
+    border: 5px solid white;
+}
+
+.try {
+    margin-top: 70px;
+    margin-bottom: 10px;
+
+}
+
+.other {
+    margin-bottom: 20px;
+
+}
+.top{
+border: 1px solid #DBDBDB;
+width: 40vh;
+ display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+min-height: 50vh;
+
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 40px;
+    font-family: cursive;
+
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+    background-color: #F5F5F5;
+    
+}
+
+.login {
+    background-color: #75B5F9;
+    color: white;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+   border-radius: 5px;
+    font-size: larger;
+    border: none;
+}
+
+.Facebook {
+    display: flex;
+    color: #3E5186;
+    margin-top: 10px;
+}
+
+.Forgot {
+    font-size: small;
+    margin-top: 20px;
+    color: #3695cc;
+}
+
+.create {
+    color: #3695cc;
+
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    min-height: 50%;
+
+}
+
+.real-img {
+    width: 300px;
+    padding-left: 50px;
+
+}
+
+.bottom{
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid #DBDBDB;
+width: 40vh;
+margin-top: 10px;
+height: 6vh;
+text-align: center;
+
+}
+.get{
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+.google{
+
+width: 150px;
+
+}
+
+.apple{
+    width: 150px;
+    padding-right: 10px;
+}
+.buy{
+
+margin-top: 20px;
+}
+
+.text{
+margin-top: 10px;
+
+}
