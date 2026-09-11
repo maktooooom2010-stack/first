@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="website">
+
+        <div class="big-card">
+            <div class="image">
+
+                <img class="real-img" src="kjgh.png" alt="">
+
+
+            </div>
+
+
+
+            <div class="card-right">
+                <div class="top">
+                    <div class="title"> Instagram</div>
+                    <input class="input try" type="text" placeholder="Phone number, username, or email">
+                    <input class="input other" type="text" placeholder="Password">
+                    <button class="login">Log in</button>
+                    <a class="Facebook" href="#">Log in with Facebook</a>
+                    <a class="Forgot" href="#">Forgot password?</a>
+                </div>
+                <div class="bottom">
+                    <div>
+                        Dont have an account? <a class="create" href="#">Sign up</a>
+                    </div>
+
+                    </div>
+
+
+                    
+                     <div class="get">
+                       <div class="text">Get the app.</div>
+                        <div class="buy">
+                      
+                        <img class="apple" src="download-on-the-app-store-flat-badge-seeklogo.png" alt="">
+                          <img class="google" src="get-it-on-google-play-badge-seeklogo.png" alt="">
+
+                </div>
+                </div>
+
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+</body>
+
+</html>
